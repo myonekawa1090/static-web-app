@@ -1,7 +1,7 @@
 {
     "networking": {
         "allowedIpRanges": [
-            "AzureFrontDoor.Backend"
+            "69.15.0.0/16"
         ]
     }
 }
